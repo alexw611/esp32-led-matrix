@@ -223,9 +223,8 @@ esp32-led-matrix/
 ├── content13.h         # 💼 Company logo (RGB565, local)
 ├── content14.h         # 📈 Stock prices (Yahoo Finance / demo)
 ├── content15.h         # 🤪 Jokes from witzapi.de
-├── images/             # Photos for README
+├── images/             # Photos
 ├── LICENSE             # MIT License
-├── .gitignore
 └── README.md
 ```
 
