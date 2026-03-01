@@ -21,7 +21,7 @@ A modular digital signage system built around an ESP32 Wrover and two daisy-chai
 <p align="center">
   <table>
     <tr>
-      <td><img src="images/content_overview.jpg" alt="Content Overview" width="400"/></td>
+      <td><img src="images/IMG_5259.png" width="400"/></td>
       <td><img src="images/clock_display.jpg" alt="Clock Display" width="400"/></td>
     </tr>
     <tr>
