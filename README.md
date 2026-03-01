@@ -22,11 +22,11 @@ A modular digital signage system built around an ESP32 Wrover and two daisy-chai
   <table>
     <tr>
       <td><img src="images/IMG_5259.png" width="400"/></td>
-      <td><img src="images/clock_display.jpg" alt="Clock Display" width="400"/></td>
+      <td><img src="images/demo.gif" width="400"/></td>
     </tr>
     <tr>
-      <td><img src="images/weather_display.jpg" alt="Weather Display" width="400"/></td>
-      <td><img src="images/web_interface.jpg" alt="Web Interface" width="400"/></td>
+      <td><img src="images/IMG_4768.PNG" width="400"/></td>
+      <td><img src="images/IMG_5096.PNG" width="400"/></td>
     </tr>
   </table>
 </p>
